@@ -13,14 +13,27 @@ Requirements:
 • AD XL 345 accelerometer
 • Car Plastic Model
 
+##Hardware:
+
 <p align="center">
   
-  Hardware
   <img src="Hardware.png" width="500" title="hover text">
   
-  App notification on screen
-  <img src="App notification on screen.jpg" width="500" title="hover text">
+</p>
+
+##App notification on screen
+
+<p align="center">
+ 
   
-  Serial Monitor Snapshot
+  <img src="App notification on screen.jpg" width="500" title="hover text">
+</p>
+
+
+##Serial Monitor Readings
+
+<p align="center">
+  
+
   <img src="Serial Monitor Snapshot.jpg" width="500" title="hover text">
 </p>
