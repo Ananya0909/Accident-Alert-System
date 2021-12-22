@@ -15,4 +15,6 @@ Requirements:
 
 <p align="center">
   <img src="Hardware.png" width="500" title="hover text">
+  <img src="App notification on screen.png" width="500" title="hover text">
+  <img src="Serial Monitor Snapshot.png" width="500" title="hover text">
 </p>
