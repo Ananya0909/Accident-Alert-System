@@ -14,5 +14,5 @@ Requirements:
 • Car Plastic Model
 
 <p align="center">
-  <img src="Hardware" width="800" title="hover text">
+  <img src="Hardware.png" width="800" title="hover text">
 </p>
