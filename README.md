@@ -13,7 +13,7 @@ Requirements:
 • AD XL 345 accelerometer
 • Car Plastic Model
 
-<b align="center">Hardware:</b>
+<b>Hardware:</b>
 
 <p align="center">
   
@@ -21,7 +21,7 @@ Requirements:
   
 </p>
 
-<b align="center">App notification on screen:</b>
+<b>App notification on screen:</b>
 
 <p align="center">
  
@@ -30,7 +30,7 @@ Requirements:
 </p>
 
 
-<b align="center">Serial Monitor Readings:</b>
+<b>Serial Monitor Readings:</b>
 
 <p align="center">
   
