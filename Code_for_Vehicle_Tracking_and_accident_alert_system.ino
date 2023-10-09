@@ -64,9 +64,3 @@ Serial.end();
 }}
 
 
-
-
-
-Serial.end();
-//delay(1000);}
-}}
